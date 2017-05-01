@@ -1,0 +1,10 @@
+@import 'config';
+body
+{
+	background-color:$bg-color;
+	section
+	{
+		color:$color;
+		appearance: none;
+	}
+}
